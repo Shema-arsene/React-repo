@@ -15,6 +15,7 @@ React: Building reusable components and managing state effectively.
 React Query: Managing server state seamlessly in React applications.
 React-Redux Toolkit: Implementing scalable state management solutions.
 Tailwind CSS: Creating modern, responsive designs with utility-first CSS.
+
 I am passionate about leveraging these technologies to create engaging and user-friendly web Applications.
 
 # Projects
